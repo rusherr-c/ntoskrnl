@@ -22,6 +22,6 @@ First Line is Project Architecture that is set in BUILD
 
 Second Line includes ntoskrnl header
 
-# LICENSE: GNU GPL 3.0
-> Everyone is permitted to copy and distribute verbatim copies<br>
-> of this license document, but changing it is not allowed.
+# LICENSE: MIT
+Copyright (c) 2025 RuSHeRRE2
+
