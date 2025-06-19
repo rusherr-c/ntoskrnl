@@ -16,7 +16,7 @@ Last add this two lines to your source file
 
 ```
 #define _X86_ // Project architecture (_X86_  or _AMD64_)
-#include <ntoskrnl.h>
+#include <ntoskrnl.hpp>
 ```
 First Line is Project Architecture that is set in BUILD
 
