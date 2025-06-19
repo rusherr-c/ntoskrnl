@@ -36,7 +36,7 @@
 #pragma warning(disable:4668) // #if not_defined treated as #if 0
 #pragma warning(disable:4820) // padding added
 
-#include <wdm.h>
+#include <wdm.hpp>
 #include <excpt.h>
 #include <ntdef.h>
 #include <ntstatus.h>
@@ -106,7 +106,7 @@ extern POBJECT_TYPE *PsSiloContextPagedType;
 extern POBJECT_TYPE *PsSiloContextNonPagedType;
 #endif
 
-#include <mce.h>
+#include <mce.hpp>
 
 #ifndef FAR
 #define FAR
