@@ -23,5 +23,5 @@ First Line is Project Architecture that is set in BUILD
 Second Line includes ntoskrnl header
 
 # LICENSE: MIT
-Copyright (c) 2025 RuSHeRRE2
+
 
