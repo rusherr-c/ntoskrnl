@@ -1,3 +1,3 @@
-#include <ntddk.h>
-#include <mce.h>
-#include <wdm.h>
+#include <ntddk.hpp>
+#include <mce.hpp>
+#include <wdm.hpp>
